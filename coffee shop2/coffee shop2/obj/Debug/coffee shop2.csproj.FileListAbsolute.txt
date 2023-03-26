@@ -1,0 +1,11 @@
+C:\Users\HP\D\coffee shop2\coffee shop2\bin\Debug\coffee shop2.exe.config
+C:\Users\HP\D\coffee shop2\coffee shop2\bin\Debug\coffee shop2.exe
+C:\Users\HP\D\coffee shop2\coffee shop2\bin\Debug\coffee shop2.pdb
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.csproj.AssemblyReference.cache
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee_shop2.Form1.resources
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee_shop2.Properties.Resources.resources
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.csproj.GenerateResource.cache
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.csproj.CoreCompileInputs.cache
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.exe
+C:\Users\HP\D\coffee shop2\coffee shop2\obj\Debug\coffee shop2.pdb
